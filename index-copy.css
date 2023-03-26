@@ -61,11 +61,11 @@ div.parent1 > .child1, .inner1 {
 }
 
 /* 9 */
-.title  {
+.title + p {
   color: forestgreen;
 }
 
 /* 10 */
-.title1 {
+.title1 ~ P {
   color: fuchsia;
 }
